@@ -9,6 +9,14 @@ This new assignment consists of four technical analysis deliverables.
 ## 3: Create a Gauge Chart
 ## 4: Customize the Dashboard
 # Results
-
+## 1: Bar Chart
+![](pics/BChart.png)
+## 2: Bubble Chart
+![](pics/BBChart.png)
+## 3: Gauge Chart
+![](pics/GChart.png)
+## 4: Customize Dashboard
+![](pics/Header.png)
 # Summaries 
-
+![](pics/BBB1.png)
+![](pics/BBB2.png)
